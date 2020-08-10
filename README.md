@@ -13,11 +13,11 @@ This repository should be a "private" repository and access to it is limited to 
 
 Now it's time to create an IntelliJ project based on this repository. From the IntelliJ splash screen, simply select "Get From Version Control" and then provide the git clone URL for this repository. Or, if you are not on the IntelliJ splash screen, select menu item File -> New -> Project From Version Control... and again, provide the git clone URL for this repository. Demonstrated in this YouTube video:
 
-http://www.cs.unc.edu/~kmp/comp210fall20/repo-to-intellij
+https://youtu.be/xx9GLxo6Y9M
 
 The first thing we'll do is make sure you're able to run a program in IntelliJ and provide input from the keyboard to that program. Follow this video and follow along:
 
-http://www.cs.unc.edu/~kmp/comp210fall20/run-in-intellij
+https://youtu.be/S2caecQkWSI
 
 Did it all work as expected? Is your Java version at least 10.0? If not, get yourself to office hours and/or see if there's any helpful advice on Piazza for a similar issue or post a question on Piazza describing what seems to be going wrong. If all is well, let's learn how to submit your assignments to Gradescope. Watch this video and follow along:
 
