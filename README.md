@@ -21,7 +21,7 @@ https://youtu.be/S2caecQkWSI
 
 Did it all work as expected? Is your Java version at least 10.0? If not, get yourself to office hours and/or see if there's any helpful advice on Piazza for a similar issue or post a question on Piazza describing what seems to be going wrong. If all is well, let's learn how to submit your assignments to Gradescope. Watch this video and follow along:
 
-http://www.cs.unc.edu/~kmp/comp210fall20/submit-to-gradescope
+https://youtu.be/jVx2rCffVf0
 
 Did you get your first point of the assignment? If yes, then congratulations. If not, better go work it out eventually, but you could also keep going with the assignment.
 
