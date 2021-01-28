@@ -165,7 +165,7 @@ No customers bought Apple
 In order to convert a double (let's call it "value") to a String with two decimal places, use the following expression:
 
 ```
-String.format("%.2f, value)
+String.format("%.2f", value)
 ```
 
 You can not assume that the same item may not show up more than once for the same customer. For example, the following is valid input for A1Adept or A1Jedi that will produce the same results as above.
