@@ -11,6 +11,9 @@ For example, the method next() will retrieve the next token (i.e., word) as a St
 
 For this assignment, you can assume that the input will always be valid and conform to the description below. In other words, you do not have to worry about validating the input or being able to deal with unexpected input.
 
+
+There are 3 parts to this assignment that increase in difficulty. You are required to do all three parts to receive full points. 
+
 ## A1Novice
 
 This program will read in data that represents shopping orders from a number of customers and report the total amount spent on a per customer basis. The input provided will have the following form:
