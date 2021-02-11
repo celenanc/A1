@@ -8,22 +8,40 @@ public class A1Adept {
 		Scanner scan = new Scanner(System.in);
 
 		// Your code follows here.
-		int customer = scan.nextInt();
-		for(int i = 0; i < customer; i++ ){
-			String name1 = scan.next();
-			String name2 = scan.next();
-			double total = 0;
+		int inverntryNum = scan.nextInt();
+		String[] ittype = new String[inverntryNum];
+		double[] cost = new double[inverntryNum];
 		
-			int itemnum = scan.nextInt();
-			
-			for (int k = 0; k < itemnum; k++);{
+		double final4Customer = scan.nextInt();
+		double finaltotal = scan.nextInt();
 		
-				int amount = scan.nextInt();
-				double cost = scan.nextDouble();
-				total = cost * amount;
-			}
-			System.out.println(name1.toUpperCase().charAt(0) +"."+ name2 +":"+ total);
+		for(int i = 0; i < inverntryNum; i++){
+			ittype[i] = scan.next();
+			cost[i] = scan.nextDouble();
 		}
-		scan.close();	
+		int customerNum = scan.nextInt();
+		String[] name = scan.nextDouble();
+
+		for( int j = 0; j < customerNum; j++){
+			name[i] = scan.next();
+			name[i] += " " + scan.next();
+
+			int total = scan.nextInt();
+			// Intiialize customer total and final total
+			
+			amount = scan.nextInt();
+			final4Customer = 0;
+			for(int k = 0, k < amount, k++){
+				int itemcost = scan.nextInt();
+				String item = scan.next();
+				final4Customer = (itemcost * cost(ittype,item,cost));
+			}
+			finaltotal += final4Customer;
+			if(final4Customer > biggest.amount)
+		}
+
+
+
+
 	}
 }
